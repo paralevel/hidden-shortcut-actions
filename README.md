@@ -104,7 +104,7 @@ __Usage__
 
 |[Watch Me Do](https://www.icloud.com/shortcuts/900d98a6564a45a894a5d0ad700bcdb7) <sup><sub>macOS<sub></sup>|
 |:-|
-|<sup>_Related to Automator's “Watch Me Do” – doesn't seem to anything_</sup><br><br>Records and plays back mouse and keyboard events.<br><br><sup>__Playback Speed__<br>Allows you to choose the playback speed of the action.</sup>|
+|<sup>_Related to Automator's “Watch Me Do” – doesn't seem to do anything_</sup><br><br>Records and plays back mouse and keyboard events.<br><br><sup>__Playback Speed__<br>Allows you to choose the playback speed of the action.</sup>|
 
 <br>
 
