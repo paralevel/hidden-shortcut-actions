@@ -2,17 +2,13 @@
 
 __Collection of hidden actions in Shortcuts app on iOS and macOS__
 
-<br>
-
 __Usage__
 1. Click the action's title to install a shortcut which only contains this action
 2. Open the shortcut
 3. Copy the action
 4. Paste it into your own shortcut
 
-<br>
-
-### Safari
+#### Safari
 
 |[Clear Safari History](https://www.icloud.com/shortcuts/fc5d20e578ab4189af9bdeed46d992d7) <sub><sub>[1]</sub></sub>|
 |:-|
@@ -38,9 +34,7 @@ __Usage__
 |:-|
 |Perform a search of tabs in Safari.<p><sub>__Keyword__<br>The keyword to search current tabs for</sub>|
 
-<br>
-
-### Shortcuts
+#### Shortcuts
 
 |[Set Shortcut Attributes](https://www.icloud.com/shortcuts/039b3c89f865494aa679545060ad2722) <sub><sub>[1]</sub></sub>|
 |:-|
@@ -50,9 +44,7 @@ __Usage__
 |:-|
 |Gets a specific piece of information from the shortcuts passed into the action.<p><sub>__Result__<br>(Text, Images, Numbers, File sizes, Dates) The piece of information</sub>|
 
-<br>
-
-### Settings
+#### Settings
 
 |[Auto-Brightness](https://www.icloud.com/shortcuts/ddfad28314f94a82b2e1892cff4b850a) <sup><sub>iOS<sub></sup> <sub><sub>[2]</sub></sub> |
 |:-|
@@ -74,9 +66,7 @@ __Usage__
 |:-|
 |Change the On/Off Labels value of On/Off Labels<p><sub>__Result__<br>On/Off Labels</sub>|
 
-<br>
-
-### Other
+#### Other
 
 |[Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3)|
 |:-|
@@ -100,15 +90,13 @@ __Usage__
 
 |[Unknown User Activity](https://www.icloud.com/shortcuts/8864bb8f35f2446ebb29632d646aa440)|
 |:-|
-|<sup>_doesn't appear to do anything_</sup><p>_No description available._|
+|<sup>_Doesn't seem to do anything_</sup><p>_No description available._|
 
 |[Watch Me Do](https://www.icloud.com/shortcuts/900d98a6564a45a894a5d0ad700bcdb7) <sup><sub>macOS<sub></sup>|
 |:-|
-|<sup>_Related to “Watch Me Do” in Automator app – doesn't appear to do anything_</sup><p>Records and plays back mouse and keyboard events.<br><sub>__Playback Speed__<br>Allows you to choose the playback speed of the action.</sub>|
+|<sup>_Related to “Watch Me Do” in Automator app – doesn't seem to do anything_</sup><p>Records and plays back mouse and keyboard events.<br><sub>__Playback Speed__<br>Allows you to choose the playback speed of the action.</sub>|
 
-<br>
-
-### Third party services
+#### Third party services
 
 |[Add to Pinboard](https://www.icloud.com/shortcuts/018a1ed6474448f1a40ad90795952804)|
 |:-|
@@ -178,17 +166,12 @@ __Usage__
 |:-|
 |Gets a specific piece of information from the Ulysses sheets passed into the action.<p><sub>__Result__<br>(Text) The piece of information</sub>|
 
-<br>
-
 <sub>1. [Source](https://www.reddit.com/r/shortcuts/comments/1oyatgg/sesca_the_search_for_every_shortcut_action/)</sub>
-
 <sub>2. [Source](https://www.reddit.com/r/ios/comments/1h8akxn/comment/m0sgf4d/)</sub>
-
 <br>
 <br>
+#### How to find hidden Shortcuts actions
 
-### How to find hidden Shortcuts actions
-###
 1. Copy for example the hidden action in the following shortcut to the clipboard: https://www.reddit.com/r/ios/comments/1h8akxn/comment/m0sgf4d/
 
 3. Convert the action in the clipboard to source with this shortcut: https://www.icloud.com/shortcuts/65d36be39c5a49cc8121e4ea652b606e
