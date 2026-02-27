@@ -16,27 +16,27 @@ __Usage__
 
 |[Clear Safari History](https://www.icloud.com/shortcuts/fc5d20e578ab4189af9bdeed46d992d7) <sub><sub>[1]</sub></sub>|
 |:-|
-|Clears history, and related cookies and other website data.<br><br><sup>__Time Frame__<br>Time frame of history to clear<br>__All Profiles__<br>Whether to clear history across all profiles or only the current one<br>__Close All Tabs__<br>Whether to close all open tabs when clearing history<br>__Profile__<br>The profile for which history will be cleared for</sup>|
+|Clears history, and related cookies and other website data.<p><sub>__Time Frame__<br>Time frame of history to clear<br>__All Profiles__<br>Whether to clear history across all profiles or only the current one<br>__Close All Tabs__<br>Whether to close all open tabs when clearing history<br>__Profile__<br>The profile for which history will be cleared for</sub>|
 
 |[Find Safari Bookmarks](https://www.icloud.com/shortcuts/8c09593849c242c5bdb2b7395728ac2f) <sup><sub>macOS<sub></sup>|
 |:-|
-|<sup>_Copy of the stock iOS action_</sup><br><br><sup>__Sort by__<br>Optionally, what to sort the bookmark by.<br>__Order__<br>The order to sort the bookmark in.<br>__Limit__<br>Whether or not to limit the number of bookmark retrieved.<br>__Result__<br>(Bookmark) The bookmark that match the criteria.</sup>|
+|<sup>_Copy of the stock iOS action_</sup><p><sub>__Sort by__<br>Optionally, what to sort the bookmark by.<br>__Order__<br>The order to sort the bookmark in.<br>__Limit__<br>Whether or not to limit the number of bookmark retrieved.<br>__Result__<br>(Bookmark) The bookmark that match the criteria.</sub>|
 
 |[Open Safari Bookmark](https://www.icloud.com/shortcuts/8f0c9870f4c54a23b4829b5619df965a) <sup><sub>macOS<sub></sup>|
 |:-|
-|<sup>_Copy of the stock iOS action_</sup><br><br>Opens the selected Bookmark.|
+|<sup>_Copy of the stock iOS action_</sup><p>Opens the selected Bookmark.|
 
 |[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sup><sub>macOS<sub></sup>|
 |:-|
-|<sup>_Copy of the stock iOS action_</sup><br><br>Opens the selected Tab Group.<br><br><sup>__Tab Group__<br>The Tab Group to be opened in Safari (App Intent parameter description)</sup>|
+|<sup>_Copy of the stock iOS action_</sup><p>Opens the selected Tab Group.<br><sub>__Tab Group__<br>The Tab Group to be opened in Safari (App Intent parameter description)</sub>|
 
 |[New Tab in Current Group](https://www.icloud.com/shortcuts/e6fc58cd0b68458eb4bb69cfad1b18d6) <sub><sub>[1]</sub></sub>|
 |:-|
-|<sup>_Opens the tab in the current tab group, unlike the stock iOS “Create New Tab” action_</sup><br><br>Creates a new tab with an optional name and URL loaded, or blank if omitted.|
+|<sup>_Opens the tab in the current tab group, unlike the stock iOS “Create New Tab” action_</sup><p>Creates a new tab with an optional name and URL loaded, or blank if omitted.|
 
 |[Search Safari Tabs](https://www.icloud.com/shortcuts/bc19535ca38e458594cf84c15457da3c) <sub><sub>[1]</sub></sub>|
 |:-|
-|Perform a search of tabs in Safari.<br><br><sup>__Keyword__<br>The keyword to search current tabs for</sup>|
+|Perform a search of tabs in Safari.<p><sub>__Keyword__<br>The keyword to search current tabs for</sub>|
 
 <br>
 
@@ -44,11 +44,11 @@ __Usage__
 
 |[Set Shortcut Attributes](https://www.icloud.com/shortcuts/039b3c89f865494aa679545060ad2722) <sub><sub>[1]</sub></sub>|
 |:-|
-|Modify a shortcut’s settings<br><br><sup>__Operation__<br>The operation to perform on the setting<br>__Attribute__<br>The setting to modify<br>__Shortcut__<br>The shortcut to modify<br>__State__<br>The state to set the setting to</sup>|
+|Modify a shortcut’s settings<p><sub>__Operation__<br>The operation to perform on the setting<br>__Attribute__<br>The setting to modify<br>__Shortcut__<br>The shortcut to modify<br>__State__<br>The state to set the setting to</sub>|
 
 |[Details of Shortcut](https://www.icloud.com/shortcuts/257b8ad2b05c43dd987661f335f11fef)|
 |:-|
-|Gets a specific piece of information from the shortcuts passed into the action.<br><br><sup>__Result__<br>(Text, Images, Numbers, File sizes, Dates) The piece of information</sup>|
+|Gets a specific piece of information from the shortcuts passed into the action.<p><sub>__Result__<br>(Text, Images, Numbers, File sizes, Dates) The piece of information</sub>|
 
 <br>
 
@@ -56,23 +56,23 @@ __Usage__
 
 |[Auto-Brightness](https://www.icloud.com/shortcuts/ddfad28314f94a82b2e1892cff4b850a) <sup><sub>iOS<sub></sup> <sub><sub>[2]</sub></sub> |
 |:-|
-|Change the Auto-Brightness value of Auto-Brightness<br><br><sup>__Result__<br>Auto-Brightness</sup>|
+|Change the Auto-Brightness value of Auto-Brightness<p><sub>__Result__<br>Auto-Brightness</sub>|
 
 |[Bold Text](https://www.icloud.com/shortcuts/330ff67345174608a18fbc69ba892946) <sup><sub>iOS<sub></sup>|
 |:-|
-|Change the Bold Text value of Bold Text<br><br><sup>__Result__<br>Bold Text</sup>|
+|Change the Bold Text value of Bold Text<p><sub>__Result__<br>Bold Text</sub>|
 
 |[Show Borders](https://www.icloud.com/shortcuts/7b8b7680c8fc4ed8a669da16b6573297) <sup><sub>iOS<sub></sup>|
 |:-|
-|Change the Show Borders value of Show Borders<br><br><sup>__Result__<br>Show Borders</sup>|
+|Change the Show Borders value of Show Borders<p><sub>__Result__<br>Show Borders</sub>|
 
 |[Differentiate Without Color](https://www.icloud.com/shortcuts/cef71c39671b4933b30c1fcea5d050bb) <sup><sub>iOS<sub></sup>|
 |:-|
-|Change the Differentiate Without Color value of Differentiate Without Color<br><br><sup>__Result__<br>Differentiate Without Color</sup>|
+|Change the Differentiate Without Color value of Differentiate Without Color<p><sub>__Result__<br>Differentiate Without Color</sub>|
 
 |[On/Off Labels](https://www.icloud.com/shortcuts/15512c8a388e47e4a64455ad00acf0d2) <sup><sub>iOS<sub></sup>|
 |:-|
-|Change the On/Off Labels value of On/Off Labels<br><br><sup>__Result__<br>On/Off Labels</sup>|
+|Change the On/Off Labels value of On/Off Labels<p><sub>__Result__<br>On/Off Labels</sub>|
 
 <br>
 
@@ -84,7 +84,7 @@ __Usage__
 
 |[Details of Appearance](https://www.icloud.com/shortcuts/030b404906764c5b9eba2e356dff57b7)|
 |:-|
-|Gets a specific piece of information from the appearances passed into the action.<br><br><sup>__Result__<br>(Booleans, Appearances, Text) The piece of information</sup>|
+|Gets a specific piece of information from the appearances passed into the action.<p><sub>__Result__<br>(Booleans, Appearances, Text) The piece of information</sub>|
 
 |[Find Focus](https://www.icloud.com/shortcuts/60127f3bc6894ea691888efdd3a8162f) <sub><sub>[1]</sub></sub>|
 |:-|
@@ -92,19 +92,19 @@ __Usage__
 
 |[Details of Ride Status](https://www.icloud.com/shortcuts/6b146ee85c354aa7a52f83f5522dfe62)|
 |:-|
-|Gets a specific piece of information from the ride statuses passed into the action.<br><br><sup>__Result__<br>(Text, Dates, Locations, Currency Amounts, Contacts) The piece of information</sup>|
+|Gets a specific piece of information from the ride statuses passed into the action.<p><sub>__Result__<br>(Text, Dates, Locations, Currency Amounts, Contacts) The piece of information</sub>|
 
 |[Details of Shazam](https://www.icloud.com/shortcuts/5b2a0e5a20b84c53bb5f4f388abb31d9)|
 |:-|
-|Gets a specific piece of information from the Shazam media passed into the action.<br><br><sup>__Result__<br>(Text, Booleans, Images, URLs) The piece of information</sup>|
+|Gets a specific piece of information from the Shazam media passed into the action.<p><sub>__Result__<br>(Text, Booleans, Images, URLs) The piece of information</sub>|
 
 |[Unknown User Activity](https://www.icloud.com/shortcuts/8864bb8f35f2446ebb29632d646aa440)|
 |:-|
-|<sup>_Doesn't seem to do anything_</sup><br><br>_No description available._|
+|<sup>_doesn't appear to do anything_</sup><p>_No description available._|
 
 |[Watch Me Do](https://www.icloud.com/shortcuts/900d98a6564a45a894a5d0ad700bcdb7) <sup><sub>macOS<sub></sup>|
 |:-|
-|<sup>_Related to Automator's “Watch Me Do” – doesn't seem to do anything_</sup><br><br>Records and plays back mouse and keyboard events.<br><br><sup>__Playback Speed__<br>Allows you to choose the playback speed of the action.</sup>|
+|<sup>_Related to “Watch Me Do” in Automator app – doesn't appear to do anything_</sup><p>Records and plays back mouse and keyboard events.<br><sub>__Playback Speed__<br>Allows you to choose the playback speed of the action.</sub>|
 
 <br>
 
@@ -112,73 +112,71 @@ __Usage__
 
 |[Add to Pinboard](https://www.icloud.com/shortcuts/018a1ed6474448f1a40ad90795952804)|
 |:-|
-|Adds the URL passed into the action to your Pinboard. This action won't be supported in future versions of Shortcuts.<br><br><sup>__Result__<br>(URL) The input<br>__Requires__<br>Access to your Pinboard account</sup>|
-
+|Adds the URL passed into the action to your Pinboard. This action won't be supported in future versions of Shortcuts.<p><sub>__Result__<br>(URL) The input<br>__Requires__<br>Access to your Pinboard account</sub>|
 
 |[Get Pinboard Bookmarks](https://www.icloud.com/shortcuts/c77470ba888c4f11bb90369b7d94663b)|
 |:-|
-|Gets bookmarks in your Pinboard account. This action won't be supported in future versions of Shortcuts.<br><br><sup>__Tags__<br>If specified, only items matching all of these tags will be returned. Supports a maximum of three tags.<br>__Result__<br>URLS<br>__Requires__<br>Access to your Pinboard account</sup>|
-
+|Gets bookmarks in your Pinboard account. This action won't be supported in future versions of Shortcuts.<p><sub>__Tags__<br>If specified, only items matching all of these tags will be returned. Supports a maximum of three tags.<br>__Result__<br>URLS<br>__Requires__<br>Access to your Pinboard account</sub>|
 
 |[Upload to Imgur](https://www.icloud.com/shortcuts/be15bed49b5c4b9393548d7d8fa38168)|
 |:-|
-|Uploads the input to Imgur.<br><br><sup>__Direct Link__<br>If enabled, the action will return a link to the image, and not its Imgur page.<br>__Create Album__<br>If enabled, the input images will be grouped into an album. Otherwise, the individual links will be returned.<br>__Result__<br>URLS<br>__Note__<br>Powered by Imgur (imgur.com)<br>__Requires__<br>Access to your Imgur account</sup>|
+|Uploads the input to Imgur.<p><sub>__Direct Link__<br>If enabled, the action will return a link to the image, and not its Imgur page.<br>__Create Album__<br>If enabled, the input images will be grouped into an album. Otherwise, the individual links will be returned.<br>__Result__<br>URLS<br>__Note__<br>Powered by Imgur (imgur.com)<br>__Requires__<br>Access to your Imgur account</sub>|
 
 |[Post to WordPress](https://www.icloud.com/shortcuts/4fcf8fafba874096b36b888d8e3a9097)|
 |:-|
-|Posts the input to a WordPress blog as a new post or page.<br><br><sup>__Result__<br>(URL) The URL of the new blog post<br>__Requires__<br>Access to your WordPress account</sup>|
+|Posts the input to a WordPress blog as a new post or page.<p><sub>__Result__<br>(URL) The URL of the new blog post<br>__Requires__<br>Access to your WordPress account</sub>|
 
 |[Post to Tumblr](https://www.icloud.com/shortcuts/b61947a637a94192b120158a695f20d2)|
 |:-|
-|Posts the content passed into the action to Tumblr.<br><br><sup>__Blog__<br>The name of the blog to post to.<br>__Result__<br>(URL) The URL of the new post<br>__Requires__<br>Access to your Tumblr account</sup>|
+|Posts the content passed into the action to Tumblr.<p><sub>__Blog__<br>The name of the blog to post to.<br>__Result__<br>(URL) The URL of the new post<br>__Requires__<br>Access to your Tumblr account</sub>|
 
 |[Get Instapaper Bookmarks](https://www.icloud.com/shortcuts/d8a157a231bb424ba5c5cd3ca27b5e7e)|
 |:-|
-|Gets the contents of a folder in Instapaper. Requires Instapaper Premium.<br><br><sup>__Folder__<br>The folder to get bookmarks from. Leaving this empty will get items from Instapaper's Home folder.<br>__Result__<br>URLS<br>__Requires__<br>Access to your Instapaper account</sup>|
+|Gets the contents of a folder in Instapaper. Requires Instapaper Premium.<p><sub>__Folder__<br>The folder to get bookmarks from. Leaving this empty will get items from Instapaper's Home folder.<br>__Result__<br>URLS<br>__Requires__<br>Access to your Instapaper account</sub>|
 
 |[Add to Instapaper](https://www.icloud.com/shortcuts/2ecf5a8626ac49e49b4b498e808876d7)|
 |:-|
-|Adds the input to Instapaper.<br><br><sup>__Folder__<br>This action will save your input to the specified folder. Leaving this empty will save the input to Instapaper's Home folder.<br>__Result__<br>(URLs) The input<br>__Requires__<br>Access to your Instapaper account</sup>|
+|Adds the input to Instapaper.<p><sub>__Folder__<br>This action will save your input to the specified folder. Leaving this empty will save the input to Instapaper's Home folder.<br>__Result__<br>(URLs) The input<br>__Requires__<br>Access to your Instapaper account</sub>|
 
 |[Create New Evernote](https://www.icloud.com/shortcuts/4ec96eaf045c40ea82a8921f810fb0f5)|
 |:-|
-|Saves the input as a note in Evernote.<br><br><sup>__Result__<br>Evernote note<br>__Requires__<br>Access to your Evernote account</sup>|
+|Saves the input as a note in Evernote.<p><sub>__Result__<br>Evernote note<br>__Requires__<br>Access to your Evernote account</sub>|
 
 |[Append to Evernote](https://www.icloud.com/shortcuts/be1bf22e2b4a4a998b96bd881aec477b)|
 |:-|
-|Finds a note using the specified criteria and appends the input to the note.<br><br><sup>__Note Title__<br>The title (or part of the title) of the note to append to<br>__Result__<br>Evernote note<br>__Requires__<br>Access to your Evernote account</sup>|
+|Finds a note using the specified criteria and appends the input to the note.<p><sub>__Note Title__<br>The title (or part of the title) of the note to append to<br>__Result__<br>Evernote note<br>__Requires__<br>Access to your Evernote account</sub>|
 
 |[Delete Evernote Items](https://www.icloud.com/shortcuts/88344a874c9d4e29bc5643eaca05e781)|
 |:-|
-|Deletes the notes passed as input from Evernote.<br><br><sup>__Requires__<br>Access to your Evernote account</sup>|
+|Deletes the notes passed as input from Evernote.<p><sub>__Requires__<br>Access to your Evernote account</sub>|
 
 |[Get Evernote Link I](https://www.icloud.com/shortcuts/59695f6a79a847af9b7496c0c9de3705)|
 |:-|
-|Gets a link to the Evernote note passed into the action, which can be shared.<br><br><sup>__In-App Link__<br>When enabled, an evernote:// URL will be generated, suitable for opening the note in the Evernote app.<br>__Result__<br>URLS<br>__Requires__<br>Access to your Evernote account</sup>|
+|Gets a link to the Evernote note passed into the action, which can be shared.<p><sub>__In-App Link__<br>When enabled, an evernote:// URL will be generated, suitable for opening the note in the Evernote app.<br>__Result__<br>URLS<br>__Requires__<br>Access to your Evernote account</sub>|
 
 |[Get Evernote Link II](https://www.icloud.com/shortcuts/a1600aee78f54862b59881846643cc16)|
 |:-|
-|Gets a link to the Evernote note passed into the action, which can be shared.<br><br><sup>__In-App Link__<br>When enabled, an evernote:// URL will be generated, suitable for opening the note in the Evernote app.<br>__Result__<br>URLS<br>__Requires__<br>Access to your Evernote account</sup>|
+|Gets a link to the Evernote note passed into the action, which can be shared.<p><sub>__In-App Link__<br>When enabled, an evernote:// URL will be generated, suitable for opening the note in the Evernote app.<br>__Result__<br>URLS<br>__Requires__<br>Access to your Evernote account</sub>|
 
 |[Details of Trello Item](https://www.icloud.com/shortcuts/8ece4e9eec744ad78be2bc5ed6a061af)|
 |:-|
-|Gets a specific piece of information from the Trello items passed into the action.<br><br><sup>__Result__<br>(Text, URLs, Dates, Files) The piece of information<br>__Requires__<br>Access to your Trello account</sup>|
+|Gets a specific piece of information from the Trello items passed into the action.<p><sub>__Result__<br>(Text, URLs, Dates, Files) The piece of information<br>__Requires__<br>Access to your Trello account</sub>|
 
 |[Add Trello Card](https://www.icloud.com/shortcuts/d8205ddc482d42759dcb663204e4f9fd)|
 |:-|
-|Creates a new card on the specified list and board in your Trello account.<br><br><sup>__Attachments__<br>A list of items to be attached to the new card as files.<br>__Result__<br>Trello card<br>__Requires__<br>Access to your Trello account</sup>|
+|Creates a new card on the specified list and board in your Trello account.<p><sub>__Attachments__<br>A list of items to be attached to the new card as files.<br>__Result__<br>Trello card<br>__Requires__<br>Access to your Trello account</sub>|
 
 |[Create Trello Board](https://www.icloud.com/shortcuts/e753f0faa107486986b7ea770c2da88a)|
 |:-|
-|Creates a new board in your Trello account.<br><br><sup>__Result__<br>Trello board<br>__Requires__<br>Access to your Trello account</sup>|
+|Creates a new board in your Trello account.<p><sub>__Result__<br>Trello board<br>__Requires__<br>Access to your Trello account</sub>|
 
 |[Create Trello List](https://www.icloud.com/shortcuts/65d5fb64908147a2ac002d8e8beca3e0)|
 |:-|
-|Creates a new list on the specified board in your Trello account.<br><br><sup>__Result__<br>Trello list<br>__Requires__<br>Access to your Trello account</sup>|
+|Creates a new list on the specified board in your Trello account.<p><sub>__Result__<br>Trello list<br>__Requires__<br>Access to your Trello account</sub>|
 
 |[Details of Ulysses Sheets](https://www.icloud.com/shortcuts/9439a7ea647f4722be35e9e7bd0d0127)|
 |:-|
-|Gets a specific piece of information from the Ulysses sheets passed into the action.<br><br><sup>__Result__<br>(Text) The piece of information</sup>|
+|Gets a specific piece of information from the Ulysses sheets passed into the action.<p><sub>__Result__<br>(Text) The piece of information</sub>|
 
 <br>
 
