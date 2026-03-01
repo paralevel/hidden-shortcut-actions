@@ -50,7 +50,7 @@ __Shortcuts__
 |:-|
 |Modify a shortcut’s settings<p><sub>__Operation__<br>The operation to perform on the setting<br>__Attribute__<br>The setting to modify<br>__Shortcut__<br>The shortcut to modify<br>__State__<br>The state to set the setting to</sub><br><sub><sub>[1]</sub></sub>|
 
-|[Get Details of Shortcut](https://www.icloud.com/shortcuts/257b8ad2b05c43dd987661f335f11fef)|
+|[Get Details of Shortcut](https://www.icloud.com/shortcuts/770cfe1d75b246b5adae1da01ea8b550)|
 |:-|
 |Gets a specific piece of information from the shortcuts passed into the action.<p><sub>__Result__<br>(Text, Images, Numbers, File sizes, Dates) The piece of information</sub>|
 <br>
@@ -100,15 +100,15 @@ __Other__
 |:-|
 |<sup>__Sort by__<br>Optionally, what to sort the focus by.<br>__Order__<br>The order to sort the focus in.<br>__Limit__<br>Whether or not to limit the number of focus retrieved.<br>__Result__<br>(Focus) The focus that match the criteria.</sup><br><sub><sub>[1]</sub></sub>|
 
-|[Get Details of Appearance](https://www.icloud.com/shortcuts/030b404906764c5b9eba2e356dff57b7)|
+|[Get Details of Appearance](https://www.icloud.com/shortcuts/574e8a3cb00048bea4671aada164126f)|
 |:-|
 |Gets a specific piece of information from the appearances passed into the action.<p><sub>__Result__<br>(Booleans, Appearances, Text) The piece of information</sub>|
 
-|[Get Details of Shazam](https://www.icloud.com/shortcuts/5b2a0e5a20b84c53bb5f4f388abb31d9)|
+|[Get Details of Shazam](https://www.icloud.com/shortcuts/a78bed33f41047f9ae4010cb4e73f43b)|
 |:-|
 |Gets a specific piece of information from the Shazam media passed into the action.<p><sub>__Result__<br>(Text, Booleans, Images, URLs) The piece of information</sub>|
 
-|[Get Details of Ride Status](https://www.icloud.com/shortcuts/6b146ee85c354aa7a52f83f5522dfe62)|
+|[Get Details of Ride Status](https://www.icloud.com/shortcuts/39d199f8ed834574be0cfa7a93ca0c1e)|
 |:-|
 |Gets a specific piece of information from the ride statuses passed into the action.<p><sub>__Result__<br>(Text, Dates, Locations, Currency Amounts, Contacts) The piece of information</sub>|
 
@@ -171,7 +171,7 @@ __Third Party Services__
 |:-|
 |Gets a link to the Evernote note passed into the action, which can be shared.<p><sub>__In-App Link__<br>When enabled, an evernote:// URL will be generated, suitable for opening the note in the Evernote app.<br>__Result__<br>URLS<br>__Requires__<br>Access to your Evernote account</sub>|
 
-|[Get Details of Trello Item](https://www.icloud.com/shortcuts/8ece4e9eec744ad78be2bc5ed6a061af)|
+|[Get Details of Trello Item](https://www.icloud.com/shortcuts/e7ebc60d57a74a01946c06434219fc42)|
 |:-|
 |Gets a specific piece of information from the Trello items passed into the action.<p><sub>__Result__<br>(Text, URLs, Dates, Files) The piece of information<br>__Requires__<br>Access to your Trello account</sub>|
 
@@ -187,7 +187,7 @@ __Third Party Services__
 |:-|
 |Creates a new list on the specified board in your Trello account.<p><sub>__Result__<br>Trello list<br>__Requires__<br>Access to your Trello account</sub>|
 
-|[Get Details of Ulysses Sheets](https://www.icloud.com/shortcuts/9439a7ea647f4722be35e9e7bd0d0127)|
+|[Get Details of Ulysses Sheets](https://www.icloud.com/shortcuts/4f425357a74c4ede877cfb038861aef2)|
 |:-|
 |Gets a specific piece of information from the Ulysses sheets passed into the action.<p><sub>__Result__<br>(Text) The piece of information</sub>|
 <br>
