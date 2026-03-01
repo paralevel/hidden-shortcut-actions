@@ -11,19 +11,19 @@ __Usage__
 
 __Safari__
 
-|[Clear Safari History](https://www.icloud.com/shortcuts/fc5d20e578ab4189af9bdeed46d992d7) <sub><sup>iOS<sup></sub>|
+|[Clear History](https://www.icloud.com/shortcuts/fc5d20e578ab4189af9bdeed46d992d7) <sub><sup>iOS<sup></sub>|
 |:-|
 |Clears history, and related cookies and other website data.<p><sub>__Time Frame__<br>Time frame of history to clear<br>__All Profiles__<br>Whether to clear history across all profiles or only the current one<br>__Close All Tabs__<br>Whether to close all open tabs when clearing history<br>__Profile__<br>The profile for which history will be cleared for</sub><br><sub><sub>[1]</sub></sub>|
 
-|[Find Safari Bookmarks](https://www.icloud.com/shortcuts/8c09593849c242c5bdb2b7395728ac2f) <sub><sup>macOS<sup></sub>|
+|[Find Bookmarks](https://www.icloud.com/shortcuts/8c09593849c242c5bdb2b7395728ac2f) <sub><sup>macOS<sup></sub>|
 |:-|
 |<sup>_Copy of the stock iOS action_</sup><p><sub>__Sort by__<br>Optionally, what to sort the bookmark by.<br>__Order__<br>The order to sort the bookmark in.<br>__Limit__<br>Whether or not to limit the number of bookmark retrieved.<br>__Result__<br>(Bookmark) The bookmark that match the criteria.</sub>|
 
-|[Open Safari Bookmark](https://www.icloud.com/shortcuts/8f0c9870f4c54a23b4829b5619df965a) <sub><sup>macOS<sup></sub>|
+|[Open Bookmark](https://www.icloud.com/shortcuts/8f0c9870f4c54a23b4829b5619df965a) <sub><sup>macOS<sup></sub>|
 |:-|
 |<sup>_Copy of the stock iOS action_</sup><p>Opens the selected Bookmark.|
 
-|[Add Safari Bookmark](https://www.icloud.com/shortcuts/6f2c5786d8d14d8385b2089d264708bb)|
+|[Add Bookmark](https://www.icloud.com/shortcuts/6f2c5786d8d14d8385b2089d264708bb)|
 |:-|
 |<sup>_Opens the “Add Bookmark” dialog_</sup><p>Adds the current page to Bookmarks.<br><sub>__Title__<br>The optional title for a bookmark to be created with</sub><br><sub><sub>[1]</sub></sub>|
 
@@ -31,15 +31,15 @@ __Safari__
 |:-|
 |<sup>_Copy of the stock iOS action_</sup><p>Opens the selected Tab Group.<br><sub>__Tab Group__<br>The Tab Group to be opened in Safari (App Intent parameter description)</sub>|
 
-|[Create Tab in Current Group](https://www.icloud.com/shortcuts/aef09e224fbc4914908f41d65a436c12)|
+|[Create Tab in Current Tab Group](https://www.icloud.com/shortcuts/aef09e224fbc4914908f41d65a436c12)|
 |:-|
 |<sup>_Actual title: “Create Tab“ – opens the tab in the current tab group, unlike the stock iOS “Create New Tab” action_</sup><p>Creates a new tab with an optional name and URL loaded, or blank if omitted.<br><sub><sub>[1]</sub></sub>|
 
-|[Search Safari Tabs](https://www.icloud.com/shortcuts/bc19535ca38e458594cf84c15457da3c)|
+|[Search Tabs](https://www.icloud.com/shortcuts/bc19535ca38e458594cf84c15457da3c)|
 |:-|
 |Perform a search of tabs in Safari.<p><sub>__Keyword__<br>The keyword to search current tabs for</sub><br><sub><sub>[1]</sub></sub>|
 
-|[Close Safari View](https://www.icloud.com/shortcuts/17f49e6530204faaaab754c01c3d29dc)|
+|[Close View](https://www.icloud.com/shortcuts/17f49e6530204faaaab754c01c3d29dc)|
 |:-|
 |<sup>_Bookmarks, History, Reading List, Start Page, Tab Overview, Sidebar or Shared with You_</sup><p>Closes the view in Safari.<br><sub><sub>[1]</sub></sub>|
 <br>
@@ -50,42 +50,42 @@ __Shortcuts__
 |:-|
 |Modify a shortcut’s settings<p><sub>__Operation__<br>The operation to perform on the setting<br>__Attribute__<br>The setting to modify<br>__Shortcut__<br>The shortcut to modify<br>__State__<br>The state to set the setting to</sub><br><sub><sub>[1]</sub></sub>|
 
-|[Details of Shortcut](https://www.icloud.com/shortcuts/257b8ad2b05c43dd987661f335f11fef)|
+|[Get Details of Shortcut](https://www.icloud.com/shortcuts/257b8ad2b05c43dd987661f335f11fef)|
 |:-|
 |Gets a specific piece of information from the shortcuts passed into the action.<p><sub>__Result__<br>(Text, Images, Numbers, File sizes, Dates) The piece of information</sub>|
 <br>
 
 __Settings__
 
-|[Auto-Brightness](https://www.icloud.com/shortcuts/ddfad28314f94a82b2e1892cff4b850a) <sub><sup>iOS<sup></sub>|
+|[Change Auto-Brightness](https://www.icloud.com/shortcuts/ddfad28314f94a82b2e1892cff4b850a) <sub><sup>iOS<sup></sub>|
 |:-|
 |<sup>_Note: Only “Turn off” or “Turn on” should be used and not “Toggle”, since toggling to “on” currently doesn't work_</sup><p>Change the Auto-Brightness value of Auto-Brightness<br><sub>__Result__<br>Auto-Brightness</sub><br><sub><sub>[2]</sub></sub>|
 
-|[Bold Text](https://www.icloud.com/shortcuts/330ff67345174608a18fbc69ba892946) <sub><sup>iOS<sup></sub>|
+|[Change Bold Text](https://www.icloud.com/shortcuts/330ff67345174608a18fbc69ba892946) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the Bold Text value of Bold Text<p><sub>__Result__<br>Bold Text</sub>|
 
-|[Show Borders](https://www.icloud.com/shortcuts/7b8b7680c8fc4ed8a669da16b6573297) <sub><sup>iOS<sup></sub>|
+|[Change Show Borders](https://www.icloud.com/shortcuts/7b8b7680c8fc4ed8a669da16b6573297) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the Show Borders value of Show Borders<p><sub>__Result__<br>Show Borders</sub>|
 
-|[Differentiate Without Color](https://www.icloud.com/shortcuts/cef71c39671b4933b30c1fcea5d050bb) <sub><sup>iOS<sup></sub>|
+|[Change Differentiate Without Color](https://www.icloud.com/shortcuts/cef71c39671b4933b30c1fcea5d050bb) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the Differentiate Without Color value of Differentiate Without Color<p><sub>__Result__<br>Differentiate Without Color</sub>|
 
-|[On/Off Labels](https://www.icloud.com/shortcuts/15512c8a388e47e4a64455ad00acf0d2) <sub><sup>iOS<sup></sub>|
+|[Change On/Off Labels](https://www.icloud.com/shortcuts/15512c8a388e47e4a64455ad00acf0d2) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the On/Off Labels value of On/Off Labels<p><sub>__Result__<br>On/Off Labels</sub>|
 
-|[Alert Haptics](https://www.icloud.com/shortcuts/08e99a4794a1489d80efee1a763d7579) <sub><sup>iOS<sup></sub>|
+|[Change Alert Haptics](https://www.icloud.com/shortcuts/08e99a4794a1489d80efee1a763d7579) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the Alert Haptics value of Haptic options<p><sub>__Result__<br>Haptic options</sub><br><sub><sub>[1]</sub></sub>|
 
-|[AirDrop Cellular Data](https://www.icloud.com/shortcuts/9fad11f9d33b4b10943fababa86271e8) <sub><sup>iOS<sup></sub>|
+|[Toggle AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/9fad11f9d33b4b10943fababa86271e8) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the Use Cellular Data for AirDrop value of Use Cellular Data AirDrop Settings<p><sub>__Result__<br>Use Cellular Data AirDrop Settings</sub><br><sub><sub>[1]</sub></sub>|
 
-|[AirDrop Bring Together](https://www.icloud.com/shortcuts/67e63a854eb044eda50a2fb1b8a648e0) <sub><sup>iOS<sup></sub>|
+|[Toggle AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/67e63a854eb044eda50a2fb1b8a648e0) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the AirDrop Bring Devices Together value of Bring Devices Together AirDrop Settings<p><sub>__Result__<br>Bring Devices Together AirDrop Settings</sub><br><sub><sub>[1]</sub></sub>|
 <br>
@@ -100,15 +100,15 @@ __Other__
 |:-|
 |<sup>__Sort by__<br>Optionally, what to sort the focus by.<br>__Order__<br>The order to sort the focus in.<br>__Limit__<br>Whether or not to limit the number of focus retrieved.<br>__Result__<br>(Focus) The focus that match the criteria.</sup><br><sub><sub>[1]</sub></sub>|
 
-|[Details of Appearance](https://www.icloud.com/shortcuts/030b404906764c5b9eba2e356dff57b7)|
+|[Get Details of Appearance](https://www.icloud.com/shortcuts/030b404906764c5b9eba2e356dff57b7)|
 |:-|
 |Gets a specific piece of information from the appearances passed into the action.<p><sub>__Result__<br>(Booleans, Appearances, Text) The piece of information</sub>|
 
-|[Details of Shazam](https://www.icloud.com/shortcuts/5b2a0e5a20b84c53bb5f4f388abb31d9)|
+|[Get Details of Shazam](https://www.icloud.com/shortcuts/5b2a0e5a20b84c53bb5f4f388abb31d9)|
 |:-|
 |Gets a specific piece of information from the Shazam media passed into the action.<p><sub>__Result__<br>(Text, Booleans, Images, URLs) The piece of information</sub>|
 
-|[Details of Ride Status](https://www.icloud.com/shortcuts/6b146ee85c354aa7a52f83f5522dfe62)|
+|[Get Details of Ride Status](https://www.icloud.com/shortcuts/6b146ee85c354aa7a52f83f5522dfe62)|
 |:-|
 |Gets a specific piece of information from the ride statuses passed into the action.<p><sub>__Result__<br>(Text, Dates, Locations, Currency Amounts, Contacts) The piece of information</sub>|
 
@@ -171,7 +171,7 @@ __Third Party Services__
 |:-|
 |Gets a link to the Evernote note passed into the action, which can be shared.<p><sub>__In-App Link__<br>When enabled, an evernote:// URL will be generated, suitable for opening the note in the Evernote app.<br>__Result__<br>URLS<br>__Requires__<br>Access to your Evernote account</sub>|
 
-|[Details of Trello Item](https://www.icloud.com/shortcuts/8ece4e9eec744ad78be2bc5ed6a061af)|
+|[Get Details of Trello Item](https://www.icloud.com/shortcuts/8ece4e9eec744ad78be2bc5ed6a061af)|
 |:-|
 |Gets a specific piece of information from the Trello items passed into the action.<p><sub>__Result__<br>(Text, URLs, Dates, Files) The piece of information<br>__Requires__<br>Access to your Trello account</sub>|
 
@@ -187,7 +187,7 @@ __Third Party Services__
 |:-|
 |Creates a new list on the specified board in your Trello account.<p><sub>__Result__<br>Trello list<br>__Requires__<br>Access to your Trello account</sub>|
 
-|[Details of Ulysses Sheets](https://www.icloud.com/shortcuts/9439a7ea647f4722be35e9e7bd0d0127)|
+|[Get Details of Ulysses Sheets](https://www.icloud.com/shortcuts/9439a7ea647f4722be35e9e7bd0d0127)|
 |:-|
 |Gets a specific piece of information from the Ulysses sheets passed into the action.<p><sub>__Result__<br>(Text) The piece of information</sub>|
 <br>
