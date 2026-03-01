@@ -31,9 +31,9 @@ __Safari__
 |:-|
 |<sup>_Copy of the stock iOS action_</sup><p>Opens the selected Tab Group.<br><sub>__Tab Group__<br>The Tab Group to be opened in Safari (App Intent parameter description)</sub>|
 
-|[New Tab in Current Group](https://www.icloud.com/shortcuts/e6fc58cd0b68458eb4bb69cfad1b18d6)|
+|[Create Tab in Current Group](https://www.icloud.com/shortcuts/aef09e224fbc4914908f41d65a436c12)|
 |:-|
-|<sup>_Opens the tab in the current tab group, unlike the stock iOS “Create New Tab” action_</sup><p>Creates a new tab with an optional name and URL loaded, or blank if omitted.<br><sub><sub>[1]</sub></sub>|
+|<sup>_Actual title: “Create Tab“ – opens the tab in the current tab group, unlike the stock iOS “Create New Tab” action_</sup><p>Creates a new tab with an optional name and URL loaded, or blank if omitted.<br><sub><sub>[1]</sub></sub>|
 
 |[Search Safari Tabs](https://www.icloud.com/shortcuts/bc19535ca38e458594cf84c15457da3c)|
 |:-|
@@ -192,7 +192,7 @@ __Third Party Services__
 |Gets a specific piece of information from the Ulysses sheets passed into the action.<p><sub>__Result__<br>(Text) The piece of information</sub>|
 <br>
 
-<sub>_Descriptions are taken from the individual action's Get Info dialog. Titles have sometimes been changed to a more human-friendly name._</sub>
+<sub>_Descriptions are taken from the individual action's Get Info dialog. Titles have sometimes been changed to a more human-friendly or descriptive name._</sub>
 
 <sub>1. [Source](https://www.reddit.com/r/shortcuts/comments/1oyatgg/sesca_the_search_for_every_shortcut_action/)</sub>
 <sub>2. [Source](https://www.reddit.com/r/ios/comments/1h8akxn/comment/m0sgf4d/)</sub>
