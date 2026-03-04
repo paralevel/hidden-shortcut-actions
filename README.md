@@ -209,7 +209,7 @@ __How to find hidden Shortcuts actions__
 
 3. Open a text editor and paste the converted source code
 
-4. Replace `AutoBrightness` with e.g. `BoldText` in the value for `WFWorkflowActionIdentifier`
+4. Replace `AutoBrightness` with e.g. `BoldText` in the value for `WFWorkflowActionIdentifier` (or experiment with other entry names from Settings > Accessibility > Display & Text Size)
 
 5. Copy the edited source code to the clipboard
 
