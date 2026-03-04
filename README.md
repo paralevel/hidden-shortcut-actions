@@ -13,7 +13,7 @@ __Safari__
 
 |[Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>iOS<sup></sub>|
 |:-|
-|Clears history, and related cookies and other website data.<p><sub>__Time Frame__<br>Time frame of history to clear<br>__All Profiles__<br>Whether to clear history across all profiles or only the current one<br>__Close All Tabs__<br>Whether to close all open tabs when clearing history<br>__Profile__<br>The profile for which history will be cleared for</sub><br><sub><sub>[1]</sub></sub>|
+|Clears history, and related cookies and other website data.<p><sub>__Time Frame__<br>Time frame of history to clear<br>__All Profiles__<br>Whether to clear history across all profiles or only the current one<br>__Close All Tabs__<br>Whether to close all open tabs when clearing history<br>__Profile__<br>The profile for which history will be cleared for</sub>|
 
 |[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) <sub><sup>macOS<sup></sub>|
 |:-|
@@ -29,7 +29,7 @@ __Safari__
 
 |[Add Bookmark](https://www.icloud.com/shortcuts/f2feffc6181d4f43b36a92fd1083ecca)|
 |:-|
-|<sup>_Opens the “Add Bookmark” dialog_</sup><p>Adds the current page to Bookmarks.<br><sub>__Title__<br>The optional title for a bookmark to be created with</sub><br><sub><sub>[1]</sub></sub>|
+|<sup>_Opens the “Add Bookmark” dialog_</sup><p>Adds the current page to Bookmarks.<br><sub>__Title__<br>The optional title for a bookmark to be created with</sub>|
 
 |[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sub><sup>macOS<sup></sub>|
 |:-|
@@ -37,22 +37,22 @@ __Safari__
 
 |[Create Tab in Current Tab Group](https://www.icloud.com/shortcuts/aef09e224fbc4914908f41d65a436c12)|
 |:-|
-|<sup>_Actual title: “Create Tab“ – opens the tab in the current tab group, unlike the stock iOS “Create New Tab” action_</sup><p>Creates a new tab with an optional name and URL loaded, or blank if omitted.<br><sub><sub>[1]</sub></sub>|
+|<sup>_Actual title: “Create Tab“ – opens the tab in the current tab group, unlike the stock iOS “Create New Tab” action_</sup><p>Creates a new tab with an optional name and URL loaded, or blank if omitted.|
 
 |[Search Tabs](https://www.icloud.com/shortcuts/5c16cf78e39244d7864ef51481174e41)|
 |:-|
-|Perform a search of tabs in Safari.<p><sub>__Keyword__<br>The keyword to search current tabs for</sub><br><sub><sub>[1]</sub></sub>|
+|Perform a search of tabs in Safari.<p><sub>__Keyword__<br>The keyword to search current tabs for</sub>|
 
 |[Close View](https://www.icloud.com/shortcuts/7255aab398ff489996b75375ef7a69c6)|
 |:-|
-|<sup>_Bookmarks, History, Reading List, Start Page, Tab Overview, Sidebar or Shared with You_</sup><p>Closes the view in Safari.<br><sub><sub>[1]</sub></sub>|
+|<sup>_Bookmarks, History, Reading List, Start Page, Tab Overview, Sidebar or Shared with You_</sup><p>Closes the view in Safari.|
 <br>
 
 __Shortcuts__
 
 |[Set Shortcut Attributes](https://www.icloud.com/shortcuts/039b3c89f865494aa679545060ad2722)|
 |:-|
-|Modify a shortcut’s settings<p><sub>__Operation__<br>The operation to perform on the setting<br>__Attribute__<br>The setting to modify<br>__Shortcut__<br>The shortcut to modify<br>__State__<br>The state to set the setting to</sub><br><sub><sub>[1]</sub></sub>|
+|Modify a shortcut’s settings<p><sub>__Operation__<br>The operation to perform on the setting<br>__Attribute__<br>The setting to modify<br>__Shortcut__<br>The shortcut to modify<br>__State__<br>The state to set the setting to</sub>|
 
 |[Get Details of Shortcut](https://www.icloud.com/shortcuts/770cfe1d75b246b5adae1da01ea8b550)|
 |:-|
@@ -63,7 +63,7 @@ __Settings__
 
 |[Change Auto-Brightness](https://www.icloud.com/shortcuts/d75ddf36c45c488eaeb0e125b9c0ee37) <sub><sup>iOS<sup></sub>|
 |:-|
-|<sup>_Note: Only “Turn off” or “Turn on” should be used and not “Toggle”, since toggling to “on” currently doesn't work_</sup><p>Change the Auto-Brightness value of Auto-Brightness<br><sub>__Result__<br>Auto-Brightness</sub><br><sub><sub>[2]</sub></sub>|
+|<sup>_Note: Only “Turn off” or “Turn on” should be used and not “Toggle”, since toggling to “on” currently doesn't work_</sup><p>Change the Auto-Brightness value of Auto-Brightness<br><sub>__Result__<br>Auto-Brightness</sub>|
 
 |[Change Bold Text](https://www.icloud.com/shortcuts/28c297e31aa44a57ade8a538c5ffb0b9) <sub><sup>iOS<sup></sub>|
 |:-|
@@ -83,15 +83,15 @@ __Settings__
 
 |[Change Alert Haptics](https://www.icloud.com/shortcuts/5d64fced066d44eda50b75e89545779c) <sub><sup>iOS<sup></sub>|
 |:-|
-|Change the Alert Haptics value of Haptic options<p><sub>__Result__<br>Haptic options</sub><br><sub><sub>[1]</sub></sub>|
+|Change the Alert Haptics value of Haptic options<p><sub>__Result__<br>Haptic options</sub>|
 
 |[Toggle AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/cda4b9247a9c42788933a935cdce0398) <sub><sup>iOS<sup></sub>|
 |:-|
-|Change the Use Cellular Data for AirDrop value of Use Cellular Data AirDrop Settings<p><sub>__Result__<br>Use Cellular Data AirDrop Settings</sub><br><sub><sub>[1]</sub></sub>|
+|Change the Use Cellular Data for AirDrop value of Use Cellular Data AirDrop Settings<p><sub>__Result__<br>Use Cellular Data AirDrop Settings</sub>|
 
 |[Toggle AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/d1ad7a32124c4fc880a4434fd0ff6044) <sub><sup>iOS<sup></sub>|
 |:-|
-|Change the AirDrop Bring Devices Together value of Bring Devices Together AirDrop Settings<p><sub>__Result__<br>Bring Devices Together AirDrop Settings</sub><br><sub><sub>[1]</sub></sub>|
+|Change the AirDrop Bring Devices Together value of Bring Devices Together AirDrop Settings<p><sub>__Result__<br>Bring Devices Together AirDrop Settings</sub>|
 <br>
 
 __Other__
@@ -102,7 +102,7 @@ __Other__
 
 |[Find Focus](https://www.icloud.com/shortcuts/60127f3bc6894ea691888efdd3a8162f) <sub><sup>iOS<sup></sub>|
 |:-|
-|<sup>__Sort by__<br>Optionally, what to sort the focus by.<br>__Order__<br>The order to sort the focus in.<br>__Limit__<br>Whether or not to limit the number of focus retrieved.<br>__Result__<br>(Focus) The focus that match the criteria.</sup><br><sub><sub>[1]</sub></sub>|
+|<sup>__Sort by__<br>Optionally, what to sort the focus by.<br>__Order__<br>The order to sort the focus in.<br>__Limit__<br>Whether or not to limit the number of focus retrieved.<br>__Result__<br>(Focus) The focus that match the criteria.</sup>|
 
 |[Get Details of Appearance](https://www.icloud.com/shortcuts/574e8a3cb00048bea4671aada164126f)|
 |:-|
@@ -198,8 +198,6 @@ __Third Party Services__
 
 <sub>_Descriptions are taken from the individual action's Get Info dialog. Some titles have been changed to a more human-friendly or descriptive name._</sub>
 
-<sub>1. [Source](https://www.reddit.com/r/shortcuts/comments/1oyatgg/sesca_the_search_for_every_shortcut_action/)</sub>
-<sub>2. [Source](https://www.reddit.com/r/ios/comments/1h8akxn/comment/m0sgf4d/)</sub>
 <br>
 <br>
 
