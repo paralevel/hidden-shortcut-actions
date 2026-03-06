@@ -50,7 +50,7 @@ __Safari__
 
 __Settings__
 
-[Desktop & Dock Settings](https://www.icloud.com/shortcuts/55a45fe74e8742728c0aa959f8cf923e) <sub><sup>macOS<sup></sub><p><sup>Animate opening applications<br>Automatically hide and show the Dock<br>Window title bar double-click action<br>Magnification<br>Minimize windows into application icon<br>Minimized window animation<br>Dock position on screen<br>Show indicators for open applications<br>Show suggested and recent apps in Dock<br>Size<br>__Result__<br>Desktop & Dock Settings</sup>
+[Desktop & Dock Settings](https://www.icloud.com/shortcuts/55a45fe74e8742728c0aa959f8cf923e) <sub><sup>macOS<sup></sub><p><sup>Animate opening applications • Automatically hide and show the Dock • Window title bar double-click action • Magnification • Minimize windows into application icon • Minimized window animation • Dock position on screen • Show indicators for open applications • Show suggested and recent apps in Dock • Size<br>__Result__<br>Desktop & Dock Settings</sup>
 
 <br>
 
@@ -62,15 +62,15 @@ __Settings__
 
 <br>
 
-[Menu Bar Clock Settings](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sub><sup>macOS<sup></sub><p><sup>Announce the time<br>Style<br>Flash the time separators<br>Show AM/PM<br>Show date<br>Show the day of the week<br>Display the time with seconds<br>Interval<br>__Result__<br>Menu Bar Clock Options</sup>
+[Menu Bar Clock Settings](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sub><sup>macOS<sup></sub><p><sup>Announce the time • Style • Flash the time separators • Show AM/PM • Show date • Show the day of the week • Display the time with seconds • Interval<br>__Result__<br>Menu Bar Clock Options</sup>
 
 <br>
 
-[Notification Center Settings](https://www.icloud.com/shortcuts/7fd72a02da8a4584863c11b9ddcd0356) <sub><sup>macOS<sup></sub><p><sup>Allow notifications when the screen is locked<br>Allow notifications when mirroring or sharing the display<br>Allow notifications when the display is sleeping<br>Show previews<br>Summarize notifications<br>__Result__<br>Notification Center Settings</sup>
+[Notification Center Settings](https://www.icloud.com/shortcuts/7fd72a02da8a4584863c11b9ddcd0356) <sub><sup>macOS<sup></sub><p><sup>Allow notifications when the screen is locked • Allow notifications when mirroring or sharing the display • Allow notifications when the display is sleeping • Show previews • Summarize notifications<br>__Result__<br>Notification Center Settings</sup>
 
 <br>
 
-[Application Notification Settings](https://www.icloud.com/shortcuts/6ba7658c0a63411fac8d4ea7ca12b587) <sub><sup>macOS<sup></sub><p><sup>Alert style<br>Critical notifications<br>Allow notifications<br>Time sensitive notifications<br>Badge application icon<br>Notification grouping<br>Play sound for notification<br>Show in Notification Center<br>Show notifications on lock screen<br>Show previews<br>__Result__<br>Application Notification Settings</sup>
+[Application Notification Settings](https://www.icloud.com/shortcuts/6ba7658c0a63411fac8d4ea7ca12b587) <sub><sup>macOS<sup></sub><p><sup>Alert style • Critical notifications • Allow notifications • Time sensitive notifications • Badge application icon • Notification grouping • Play sound for notification • Show in Notification Center • Show notifications on lock screen • Show previews<br>__Result__<br>Application Notification Settings</sup>
 
 <br>
 
