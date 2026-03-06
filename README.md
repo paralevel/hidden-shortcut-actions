@@ -78,7 +78,7 @@ __Settings__
 
 <br>
 
-[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/2b8740c60e6441dca18c0a4e81e54dfb) <sub><sup>macOS<sup></sub><br><sub>_Due to a bug, the toggle won’t reflect the current state until you restart System Settings, but it's turned off if there's a yellow warning sign beneath the toggle_</sub>
+[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/2b8740c60e6441dca18c0a4e81e54dfb) <sub><sup>macOS<sup></sub><br><sub>_The toggle won’t reflect the current state until you restart System Settings (due to a bug), but it's turned off if there's a yellow warning sign beneath the toggle_</sub>
 
 <br>
 
