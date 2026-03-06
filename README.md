@@ -306,7 +306,7 @@ __Unknown__
 <br>
 <br>
 
-<sub>_Descriptions are taken from the individual action's Get Info dialog and are sometimes rephrased to be more human-friendly or descriptive._</sub>
+<sub>_Descriptions are taken from the individual action's Get Info dialog when available_</sub>
 
 <br>
 <br>
