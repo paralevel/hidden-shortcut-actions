@@ -14,15 +14,15 @@ __Usage__
 
 __Safari__
 
-[Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>iOS<sup></sub><p>Clears history, and related cookies and other website data.<br><sub>__Time Frame__<br>Time frame of history to clear<br>__All Profiles__<br>Whether to clear history across all profiles or only the current one<br>__Close All Tabs__<br>Whether to close all open tabs when clearing history<br>__Profile__<br>The profile for which history will be cleared for</sub>
+[Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>__iOS__<sup></sub><p>Clears history, and related cookies and other website data.<br><sub>__Time Frame__<br>Time frame of history to clear<br>__All Profiles__<br>Whether to clear history across all profiles or only the current one<br>__Close All Tabs__<br>Whether to close all open tabs when clearing history<br>__Profile__<br>The profile for which history will be cleared for</sub>
 
 <br>
 
-[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) <sub><sup>macOS<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p><sup>__Sort by__<br>Optionally, what to sort the bookmark by.<br>__Order__<br>The order to sort the bookmark in.<br>__Limit__<br>Whether or not to limit the number of bookmark retrieved.<br>__Result__<br>(Bookmark) The bookmark that match the criteria.</sup>
+[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p><sup>__Sort by__<br>Optionally, what to sort the bookmark by.<br>__Order__<br>The order to sort the bookmark in.<br>__Limit__<br>Whether or not to limit the number of bookmark retrieved.<br>__Result__<br>(Bookmark) The bookmark that match the criteria.</sup>
 
 <br>
 
-[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) <sub><sup>macOS<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Bookmark.
+[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Bookmark.
 
 <br>
 
@@ -34,7 +34,7 @@ __Safari__
 
 <br>
 
-[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sub><sup>macOS<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Tab Group.<br><sub>__Tab Group__<br>The Tab Group to be opened in Safari (App Intent parameter description)</sub>
+[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Tab Group.<br><sub>__Tab Group__<br>The Tab Group to be opened in Safari (App Intent parameter description)</sub>
 
 <br>
 
@@ -53,103 +53,103 @@ __Safari__
 
 __Settings__
 
-[Desktop & Dock Settings](https://www.icloud.com/shortcuts/55a45fe74e8742728c0aa959f8cf923e) <sub><sup>macOS<sup></sub><p><sup>Animate opening applications • Automatically hide and show the Dock • Window title bar double-click action • Magnification • Minimize windows into application icon • Minimized window animation • Dock position on screen • Show indicators for open applications • Show suggested and recent apps in Dock • Size<br>__Result__<br>Desktop & Dock Settings</sup>
+[Desktop & Dock Settings](https://www.icloud.com/shortcuts/55a45fe74e8742728c0aa959f8cf923e) <sub><sup>__macOS__<sup></sub><p><sup>Animate opening applications • Automatically hide and show the Dock • Window title bar double-click action • Magnification • Minimize windows into application icon • Minimized window animation • Dock position on screen • Show indicators for open applications • Show suggested and recent apps in Dock • Size<br>__Result__<br>Desktop & Dock Settings</sup>
 
 <br>
 
-[Automatically Hide and Show the Menu Bar](https://www.icloud.com/shortcuts/842c5c3cd7ee48ffad25fb12eefa7464) <sub><sup>macOS<sup></sub>
+[Automatically Hide and Show the Menu Bar](https://www.icloud.com/shortcuts/842c5c3cd7ee48ffad25fb12eefa7464) <sub><sup>__macOS__<sup></sub>
 
 <br>
 
-[Show Menu Bar Background](https://www.icloud.com/shortcuts/4b013a82a9ba49fda5f579d91341c7fb) <sub><sup>macOS<sup></sub>
+[Show Menu Bar Background](https://www.icloud.com/shortcuts/4b013a82a9ba49fda5f579d91341c7fb) <sub><sup>__macOS__<sup></sub>
 
 <br>
 
-[Menu Bar Clock Settings](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sub><sup>macOS<sup></sub><p><sup>Announce the time • Style • Flash the time separators • Show AM/PM • Show date • Show the day of the week • Display the time with seconds • Interval<br>__Result__<br>Menu Bar Clock Options</sup>
+[Menu Bar Clock Settings](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sub><sup>__macOS__<sup></sub><p><sup>Announce the time • Style • Flash the time separators • Show AM/PM • Show date • Show the day of the week • Display the time with seconds • Interval<br>__Result__<br>Menu Bar Clock Options</sup>
 
 <br>
 
-[Notification Center Settings](https://www.icloud.com/shortcuts/7fd72a02da8a4584863c11b9ddcd0356) <sub><sup>macOS<sup></sub><p><sup>Allow notifications when the screen is locked • Allow notifications when mirroring or sharing the display • Allow notifications when the display is sleeping • Show previews • Summarize notifications<br>__Result__<br>Notification Center Settings</sup>
+[Notification Center Settings](https://www.icloud.com/shortcuts/7fd72a02da8a4584863c11b9ddcd0356) <sub><sup>__macOS__<sup></sub><p><sup>Allow notifications when the screen is locked • Allow notifications when mirroring or sharing the display • Allow notifications when the display is sleeping • Show previews • Summarize notifications<br>__Result__<br>Notification Center Settings</sup>
 
 <br>
 
-[Application Notification Settings](https://www.icloud.com/shortcuts/6ba7658c0a63411fac8d4ea7ca12b587) <sub><sup>macOS<sup></sub><p><sup>Alert style • Critical notifications • Allow notifications • Time sensitive notifications • Badge application icon • Notification grouping • Play sound for notification • Show in Notification Center • Show notifications on lock screen • Show previews<br>__Result__<br>Application Notification Settings</sup>
+[Application Notification Settings](https://www.icloud.com/shortcuts/6ba7658c0a63411fac8d4ea7ca12b587) <sub><sup>__macOS__<sup></sub><p><sup>Alert style • Critical notifications • Allow notifications • Time sensitive notifications • Badge application icon • Notification grouping • Play sound for notification • Show in Notification Center • Show notifications on lock screen • Show previews<br>__Result__<br>Application Notification Settings</sup>
 
 <br>
 
-[Auto-Brightness](https://www.icloud.com/shortcuts/d75ddf36c45c488eaeb0e125b9c0ee37) <sub><sup>iOS<sup></sub><br><sub>_Only “Turn off” or “Turn on” should be used and not “Toggle”, since toggling to “on” currently doesn't work_</sub>
+[Auto-Brightness](https://www.icloud.com/shortcuts/d75ddf36c45c488eaeb0e125b9c0ee37) <sub><sup>__iOS__<sup></sub><br><sub>_Only “Turn off” or “Turn on” should be used and not “Toggle”, since toggling to “on” currently doesn't work_</sub>
 
 <br>
 
-[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/2b8740c60e6441dca18c0a4e81e54dfb) <sub><sup>macOS<sup></sub><br><sub>_The toggle won’t reflect the current state until you restart System Settings (due to a bug), but it's turned off if there's a yellow warning sign beneath the toggle_</sub>
+[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/2b8740c60e6441dca18c0a4e81e54dfb) <sub><sup>__macOS__<sup></sub><br><sub>_The toggle won’t reflect the current state until you restart System Settings (due to a bug), but it's turned off if there's a yellow warning sign beneath the toggle_</sub>
 
 <br>
 
-[Bold Text](https://www.icloud.com/shortcuts/28c297e31aa44a57ade8a538c5ffb0b9) <sub><sup>iOS<sup></sub>
+[Bold Text](https://www.icloud.com/shortcuts/28c297e31aa44a57ade8a538c5ffb0b9) <sub><sup>__iOS__<sup></sub>
 
 <br>
 
-[Show Borders](https://www.icloud.com/shortcuts/d8068de66bb0456ab47abae46f3168a4) <sub><sup>iOS<sup></sub>
+[Show Borders](https://www.icloud.com/shortcuts/d8068de66bb0456ab47abae46f3168a4) <sub><sup>__iOS__<sup></sub>
 
 <br>
 
-[Differentiate Without Color](https://www.icloud.com/shortcuts/dba18e3bacf047009ede1044eacf1d8a) <sub><sup>iOS<sup></sub>
+[Differentiate Without Color](https://www.icloud.com/shortcuts/dba18e3bacf047009ede1044eacf1d8a) <sub><sup>__iOS__<sup></sub>
 
 <br>
 
-[On/Off Labels](https://www.icloud.com/shortcuts/e45bce4643f84226a6f65c19485f5b89) <sub><sup>iOS<sup></sub>
+[On/Off Labels](https://www.icloud.com/shortcuts/e45bce4643f84226a6f65c19485f5b89) <sub><sup>__iOS__<sup></sub>
 
 <br>
 
-[Choose Color Filter](https://www.icloud.com/shortcuts/42c755535af343ea94d37b109d83e269) <sub><sup>macOS<sup></sub><br><sub>_You need to have Color Filters enabled to see any changes_</sub>
+[Choose Color Filter](https://www.icloud.com/shortcuts/42c755535af343ea94d37b109d83e269) <sub><sup>__macOS__<sup></sub><br><sub>_You need to have Color Filters enabled to see any changes_</sub>
 
 <br>
 
-[Change Alert Haptics](https://www.icloud.com/shortcuts/5d64fced066d44eda50b75e89545779c) <sub><sup>iOS<sup></sub>
+[Change Alert Haptics](https://www.icloud.com/shortcuts/5d64fced066d44eda50b75e89545779c) <sub><sup>__iOS__<sup></sub>
 
 <br>
 
-[Flash the Screen When an Alert Sound Occurs](https://www.icloud.com/shortcuts/7c858cef3a934a3d9749f06d8f56749e) <sub><sup>macOS<sup></sub>
+[Flash the Screen When an Alert Sound Occurs](https://www.icloud.com/shortcuts/7c858cef3a934a3d9749f06d8f56749e) <sub><sup>__macOS__<sup></sub>
 
 <br>
 
-[Play User Interface Sound Effects](https://www.icloud.com/shortcuts/3734997bb2eb4a118bcb89f0525ed8ba) <sub><sup>macOS<sup></sub>
+[Play User Interface Sound Effects](https://www.icloud.com/shortcuts/3734997bb2eb4a118bcb89f0525ed8ba) <sub><sup>__macOS__<sup></sub>
 
 <br>
 
-[Play Feedback When Volume is Changed](https://www.icloud.com/shortcuts/70fac6b7ee324f2f99f1dd1869282afa) <sub><sup>macOS<sup></sub>
+[Play Feedback When Volume is Changed](https://www.icloud.com/shortcuts/70fac6b7ee324f2f99f1dd1869282afa) <sub><sup>__macOS__<sup></sub>
 
 <br>
 
-[Play Sound on Startup](https://www.icloud.com/shortcuts/e34d752371b644e08e4e66b8846957b0) <sub><sup>macOS<sup></sub>
+[Play Sound on Startup](https://www.icloud.com/shortcuts/e34d752371b644e08e4e66b8846957b0) <sub><sup>__macOS__<sup></sub>
 
 <br>
 
-[Tap to Click](https://www.icloud.com/shortcuts/e31537fdbd4b4047b8a0315affe3bfb8) <sub><sup>macOS<sup></sub>
+[Tap to Click](https://www.icloud.com/shortcuts/e31537fdbd4b4047b8a0315affe3bfb8) <sub><sup>__macOS__<sup></sub>
 
 <br>
 
-[Natural Scrolling](https://www.icloud.com/shortcuts/3090805fb7514726928df7d4eac59c05) <sub><sup>macOS<sup></sub>
+[Natural Scrolling](https://www.icloud.com/shortcuts/3090805fb7514726928df7d4eac59c05) <sub><sup>__macOS__<sup></sub>
 
 <br>
 
-[Use Scroll Gesture With Modifier Keys to Zoom](https://www.icloud.com/shortcuts/0833b7dbdd7a4cf98fa67cdc858b78bf) <sub><sup>macOS<sup></sub>
+[Use Scroll Gesture With Modifier Keys to Zoom](https://www.icloud.com/shortcuts/0833b7dbdd7a4cf98fa67cdc858b78bf) <sub><sup>__macOS__<sup></sub>
 
 <br>
 
-[Show Scroll Bars Behavior](https://www.icloud.com/shortcuts/206d91bd196a402b91dc0a21f5927912) <sub><sup>macOS<sup></sub>
+[Show Scroll Bars Behavior](https://www.icloud.com/shortcuts/206d91bd196a402b91dc0a21f5927912) <sub><sup>__macOS__<sup></sub>
 
 <br>
 
-[Click in Scroll Bar Behavior](https://www.icloud.com/shortcuts/26008a85cd6d46bf97ae048789e1b930) <sub><sup>macOS<sup></sub>
+[Click in Scroll Bar Behavior](https://www.icloud.com/shortcuts/26008a85cd6d46bf97ae048789e1b930) <sub><sup>__macOS__<sup></sub>
 
 <br>
 
-[AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/cda4b9247a9c42788933a935cdce0398) <sub><sup>iOS<sup></sub>
+[AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/cda4b9247a9c42788933a935cdce0398) <sub><sup>__iOS__<sup></sub>
 
 <br>
 
-[AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/d1ad7a32124c4fc880a4434fd0ff6044) <sub><sup>iOS<sup></sub>
+[AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/d1ad7a32124c4fc880a4434fd0ff6044) <sub><sup>__iOS__<sup></sub>
 
 <br>
 <br>
@@ -167,11 +167,11 @@ __Shortcuts__
 
 __Other__
 
-[Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3) <sub><sup>iOS<sup></sub><p>Changes whether the selected application is locked. Locked apps require authentication to access.
+[Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3) <sub><sup>__iOS__<sup></sub><p>Changes whether the selected application is locked. Locked apps require authentication to access.
 
 <br>
 
-[Find Focus](https://www.icloud.com/shortcuts/60127f3bc6894ea691888efdd3a8162f) <sub><sup>iOS<sup></sub><p><sup>__Sort by__<br>Optionally, what to sort the focus by.<br>__Order__<br>The order to sort the focus in.<br>__Limit__<br>Whether or not to limit the number of focus retrieved.<br>__Result__<br>(Focus) The focus that match the criteria.</sup>
+[Find Focus](https://www.icloud.com/shortcuts/60127f3bc6894ea691888efdd3a8162f) <sub><sup>__iOS__<sup></sub><p><sup>__Sort by__<br>Optionally, what to sort the focus by.<br>__Order__<br>The order to sort the focus in.<br>__Limit__<br>Whether or not to limit the number of focus retrieved.<br>__Result__<br>(Focus) The focus that match the criteria.</sup>
 
 <br>
 
@@ -187,7 +187,7 @@ __Other__
 
 <br>
 
-[Get Firewall State](https://www.icloud.com/shortcuts/f3537f1bdc2d4d428b3a96d130532174) <sub><sup>macOS<sup></sub>
+[Get Firewall State](https://www.icloud.com/shortcuts/f3537f1bdc2d4d428b3a96d130532174) <sub><sup>__macOS__<sup></sub>
 
 <br>
 <br>
@@ -301,7 +301,7 @@ __Unknown__
 
 <br>
 
-[Watch Me Do](https://www.icloud.com/shortcuts/900d98a6564a45a894a5d0ad700bcdb7) <sub><sup>macOS<sup></sub><br><sub>_Related to “Watch Me Do” in Automator app – doesn't seem to do anything_</sub><p>Records and plays back mouse and keyboard events.<br><sub>__Playback Speed__<br>Allows you to choose the playback speed of the action.</sub>
+[Watch Me Do](https://www.icloud.com/shortcuts/900d98a6564a45a894a5d0ad700bcdb7) <sub><sup>__macOS__<sup></sub><br><sub>_Related to “Watch Me Do” in Automator app – doesn't seem to do anything_</sub><p>Records and plays back mouse and keyboard events.<br><sub>__Playback Speed__<br>Allows you to choose the playback speed of the action.</sub>
 
 <br>
 <br>
