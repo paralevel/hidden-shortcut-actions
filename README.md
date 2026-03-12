@@ -143,7 +143,7 @@ __Usage__
 
 <br>
 
-[Menu Bar Fast User Switching Style](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sub><sup>__macOS__<sup></sub><p>Change the appearance of the Fast User Switching menu bar item<p><sup>__Parameters__<br>Full Name • Account Name • Icon</sup><br><sub>__Output__<br>The generic string “Fast User Switching menu style”</sub>
+[Menu Bar User Switching Style](https://www.icloud.com/shortcuts/7f8b7313b3be4f34bf8683bbaa865c2f) <sub><sup>__macOS__<sup></sub><p>Change the appearance of the Fast User Switching menu bar item<p><sup>__Parameters__<br>Full Name • Account Name • Icon</sup><br><sub>__Output__<br>The generic string “Fast User Switching menu style”</sub>
 
 <br>
 
