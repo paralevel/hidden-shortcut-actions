@@ -11,9 +11,10 @@ __Usage__
 4. Paste it into your own shortcut
 
 <br>
+<br>
 
 > __Safari__
-
+###
 [Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>__iOS__<sup></sub><p>Clears history, related cookies and other website data in Safari<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup><br><sub>_No output_</sub>
 
 <br>
@@ -49,9 +50,10 @@ __Usage__
 [Close View](https://www.icloud.com/shortcuts/22fcb91de7ed4f2db5d72de787665dbc)<br><p>Closes the view in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Sidebar • Shared with You</sup><br><sub>_No output_</sub>
 
 <br>
+<br>
 
 > __iOS Settings__
-
+###
 [Show Battery Percentage in Status Bar](https://www.icloud.com/shortcuts/fb45c3d68f274b96a9ec8197ca5e03d0) <sub><sup>__iOS__<sup></sub><p>Toggle the “Show Percentage” Battery setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Battery Percentage”</sub>
 
 <br>
@@ -99,9 +101,10 @@ __Usage__
 [AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/752d07f7888b4de8878e3a12fee1021e) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “Out of Range – Use Cellular Data”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Use Cellular Data”</sub>
 
 <br>
+<br>
 
 > __macOS Settings__
-
+###
 [Sidebar Icon Size](https://www.icloud.com/shortcuts/acef10e5216e4309846544eea4895fa3) <sub><sup>__macOS__<sup></sub><p>Change the “Sidebar Icon Size” Appearance setting<p><sup>__Parameters__<br>Small • Medium • Large</sup><br><sub>__Output__<br>The generic string “Sidebar icon size”</sub>
 
 <br>
@@ -122,7 +125,7 @@ __Usage__
 
 <br>
 
-[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/36b4d6fb9bac4e60926ff048e83b8a54) <sub><sup>__macOS__<sup></sub><br><sub>_Note: Due to a bug, the toggle won't reflect the changed state until you restart System Settings_</sub><p>Toggle the Displays setting “Automatically adjust brightness”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Automatically adjust brightness on the main display”</sub>
+[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/142abd3279bf4c26b5caa18c4f43341b) <sub><sup>__macOS__<sup></sub><br><sub>_Note: Due to a bug, the toggle won't reflect the changed state until you restart System Settings_</sub><p>Toggle the Displays setting “Automatically adjust brightness”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Automatically adjust brightness on the main display”</sub>
 
 <br>
 
@@ -186,20 +189,25 @@ __Usage__
 
 <br>
 
-[Tap to Click](https://www.icloud.com/shortcuts/e31537fdbd4b4047b8a0315affe3bfb8) <sub><sup>__macOS__<sup></sub><p>Toggle the “Tap to click” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Tap to click”</sub>
+[Trackpad Secondary Click](https://www.icloud.com/shortcuts/5db14aa8c7ec46c79b503fa348ff48d1) <sub><sup>__macOS__<sup></sub><p>Change gesture for the “Secondary click” Trackpad setting<p><sup>__Parameters__<br>Off • Click with Two Fingers • Click in Bottom Right Corner • Click in Bottom Left Corner</sup><br><sub>__Output__<br>The generic string “Trackpad secondary click”</sub>
 
 <br>
 
-[Natural Scrolling](https://www.icloud.com/shortcuts/3090805fb7514726928df7d4eac59c05) <sub><sup>__macOS__<sup></sub><p>Toggle the “Natural Scrolling” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Natural scrolling”</sub>
+[Trackpad Tap to Click](https://www.icloud.com/shortcuts/e31537fdbd4b4047b8a0315affe3bfb8) <sub><sup>__macOS__<sup></sub><p>Toggle the “Tap to click” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Tap to click”</sub>
+
+<br>
+
+[Trackpad Natural Scrolling](https://www.icloud.com/shortcuts/3090805fb7514726928df7d4eac59c05) <sub><sup>__macOS__<sup></sub><p>Toggle the “Natural Scrolling” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Natural scrolling”</sub>
 
 <br>
 
 [Use Scroll Gesture With Modifier Keys to Zoom](https://www.icloud.com/shortcuts/0833b7dbdd7a4cf98fa67cdc858b78bf) <sub><sup>__macOS__<sup></sub><p>Toggle the Accessibility setting “Use scroll gesture with modifier keys to zoom”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Use scroll gesture with modifier keys to zoom”</sub>
 
 <br>
+<br>
 
 > __Shortcuts__
-
+###
 [Set Shortcut Attributes](https://www.icloud.com/shortcuts/391372497e7c425a90b92bb6bafbacf7)<p>Change an attribute for an individual shortcut<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle • Reiceive Input From Spotlight • Show in Share Sheet • Show on Apple Watch • Pin in Menu Bar • Receive What”s On Screen • Use as Quick Action • Allow Running When Locked</sup><br><sub>__Options__<br>Open When Run</sub><p><sup>_No output_</sup>
 
 <br>
@@ -207,9 +215,10 @@ __Usage__
 [Get Details of Shortcut](https://www.icloud.com/shortcuts/770cfe1d75b246b5adae1da01ea8b550)<p>Get a specific detail about one or more shortcuts – use in combination with the Get My Shortcuts and Filter Files actions<p><sup>__Parameters__<br>Folder • Icon • Action Count • File Size • File Extension • Date Created • Last Modified Date • Name</sup><br><sub>__Output__<br>The specific detail</sub>
 
 <br>
+<br>
 
 > __Other__
-
+###
 [Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3) <sub><sup>__iOS__<sup></sub><p>Changes whether the selected application is locked. Locked apps require authentication to access.<p><sup>__Parameters__<br>Lock • Unlock • Toggle</sup><br><sub>_No output_</sub>
 
 <br>
@@ -233,9 +242,10 @@ __Usage__
 [Get Firewall State](https://www.icloud.com/shortcuts/5f3227380135451d873feb9afa00436a) <sub><sup>__macOS__<sup></sub><p>Get the current Firewall policy<p><sup>__Output__<br>Firewall policy</sup>
 
 <br>
+<br>
 
 > __Third Party Services__
-
+###
 [Add to Pinboard](https://www.icloud.com/shortcuts/018a1ed6474448f1a40ad90795952804)<p>Adds the URL passed into the action to your Pinboard – requires access to your Pinboard account<p><sup>__Output__<br>The input URL</sup>
 
 <br>
