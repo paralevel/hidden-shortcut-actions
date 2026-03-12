@@ -169,6 +169,23 @@ __Usage__
 
 [Play Sound on Startup](https://www.icloud.com/shortcuts/e34d752371b644e08e4e66b8846957b0) <sub><sup>__macOS__<sup></sub><p>Toggle the Sound setting “Play sound on startup”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Play sound on startup”</sub>
 
+<br>
+
+[Trackpad Tracking Speed](https://www.icloud.com/shortcuts/ccd1705b6c2a4999aa81a30b1e228eb0) <sub><sup>__macOS__<sup></sub><p>Adjust the “Tracking speed” Trackpad setting<p><sup>__Parameters__<br>0.0 • 0.125 • 0.5 • 0.6875 [default] • 0.875 • 1.0 • 1.5 • 2.0 • 2.5 • 3.0</sup><br><sub>__Output__<br>The generic string “Trackpad tracking speed”</sub>
+
+<br>
+
+[Trackpad Click Pressure Speed](https://www.icloud.com/shortcuts/d933ee204a384e19962c7a8e9dcb2337) <sub><sup>__macOS__<sup></sub><p>Adjust the “Click” Trackpad setting<p><sup>__Parameters__<br>Light • Medium • Firm</sup><br><sub>__Output__<br>The generic string “Click pressure”</sub>
+
+<br>
+
+[Trackpad Force Click And Haptic Feedback](https://www.icloud.com/shortcuts/65e95291b1c04e0897fe23defbc784a6) <sub><sup>__macOS__<sup></sub><p>Toggle the “Force Click and haptic feedback” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Force click and haptic feedback”</sub>
+
+<br>
+
+[Trackpad Look Up & Data Detectors](https://www.icloud.com/shortcuts/15b9a8257719410f96aa247ac4af666c) <sub><sup>__macOS__<sup></sub><p><sup>_The action mistakenly refers to “Force Click and haptic feedback”_</sup><p>Change the “Look up & data detectors” Trackpad setting<p><sup>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sup><br><sub>__Output__<br>The generic string “Force Click and haptic feedback” [mistake]</sub>
+
+<br>
 
 [Tap to Click](https://www.icloud.com/shortcuts/e31537fdbd4b4047b8a0315affe3bfb8) <sub><sup>__macOS__<sup></sub><p>Toggle the “Tap to click” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Tap to click”</sub>
 
