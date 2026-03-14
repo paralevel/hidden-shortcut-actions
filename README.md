@@ -117,7 +117,7 @@ __Usage__
 
 <br>
 
-[Click in Scroll Bar To](https://www.icloud.com/shortcuts/94b30eeab6104e9282f964d18e6764e8) <sub><sup>__macOS__<sup></sub><p>Change the “Click in the scroll bar to” Appearance setting<p><sup>__Parameters__<br>Jump to the next page • Jump to the spot that”s clicked</sup><br><sub>__Output__<br>The generic string “Click in the scroll bar to”</sub>
+[Click in Scroll Bar To](https://www.icloud.com/shortcuts/94b30eeab6104e9282f964d18e6764e8) <sub><sup>__macOS__<sup></sub><p>Change the “Click in the scroll bar to” Appearance setting<p><sup>__Parameters__<br>Jump to the next page • Jump to the spot that’s clicked</sup><br><sub>__Output__<br>The generic string “Click in the scroll bar to”</sub>
 
 <br>
 
@@ -125,7 +125,7 @@ __Usage__
 
 <br>
 
-[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/142abd3279bf4c26b5caa18c4f43341b) <sub><sup>__macOS__<sup></sub><br><sub>_Note: Due to a bug, the toggle won't reflect the changed state until you restart System Settings_</sub><p>Toggle the Displays setting “Automatically adjust brightness”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Automatically adjust brightness on the main display”</sub>
+[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/142abd3279bf4c26b5caa18c4f43341b) <sub><sup>__macOS__<sup></sub><br><sub>_Because of a bug, the toggle won’t reflect the changed state until System Settings is restarted_</sub><p>Toggle the Displays setting “Automatically adjust brightness”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Automatically adjust brightness on the main display”</sub>
 
 <br>
 
@@ -173,7 +173,7 @@ __Usage__
 
 <br>
 
-[Trackpad Tracking Speed](https://www.icloud.com/shortcuts/ccd1705b6c2a4999aa81a30b1e228eb0) <sub><sup>__macOS__<sup></sub><p>Adjust the “Tracking speed” Trackpad setting<p><sup>__Parameters__<br>0.0 • 0.125 • 0.5 • 0.6875 • 0.875 • 1.0 • 1.5 • 2.0 • 2.5 • 3.0</sup><br><sub>__Output__<br>The generic string “Trackpad tracking speed”</sub>
+[Trackpad Tracking Speed](https://www.icloud.com/shortcuts/ccd1705b6c2a4999aa81a30b1e228eb0) <sub><sup>__macOS__<sup></sub><p>Adjust the “Tracking speed” Trackpad setting<p><sup>__Parameters__<br>`0.0` • `0.125` • `0.5` • `0.6875` • `0.875` • `1.0` • `1.5` • `2.0` • `2.5` • `3.0`</sup><br><sub>__Output__<br>The generic string “Trackpad tracking speed”</sub>
 
 <br>
 
@@ -185,7 +185,7 @@ __Usage__
 
 <br>
 
-[Trackpad Look Up & Data Detectors](https://www.icloud.com/shortcuts/15b9a8257719410f96aa247ac4af666c) <sub><sup>__macOS__<sup></sub><p><sup>_Mistakenly referred to as “Force Click and haptic feedback” in the action_</sup><p>Change the “Look up & data detectors” Trackpad setting<p><sup>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sup><br><sub>__Output__<br>The generic string “Force Click and haptic feedback” [wrong term used]</sub>
+[Trackpad Look Up & Data Detectors](https://www.icloud.com/shortcuts/15b9a8257719410f96aa247ac4af666c) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly referred to as “Force Click and haptic feedback” in the action_</sub><p>Change the “Look up & data detectors” Trackpad setting<p><sup>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sup><br><sub>__Output__<br>The generic string “Force Click and haptic feedback” [wrong term used]</sub>
 
 <br>
 
@@ -217,7 +217,23 @@ __Usage__
 
 <br>
 
-[Trackpad Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/b384ab2f3bcf479a84ac31f19be634df) <sub><sup>__macOS__<sup></sub><p><sup>_Mistakenly referred to as “Swipe between pages” in the action_</sup><p>Select gesture for the “Swipe between full-screen applications” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sup><br><sub>__Output__<br>The generic string “Swipe between pages” [wrong term used]</sub>
+[Trackpad Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/b384ab2f3bcf479a84ac31f19be634df) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly referred to as “Swipe between pages” in the action_</sub><p>Select gesture for the “Swipe between full-screen applications” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sup><br><sub>__Output__<br>The generic string “Swipe between pages” [wrong term used]</sub>
+
+<br>
+
+[Trackpad Notification Center Gesture](https://www.icloud.com/shortcuts/50f67a1cd28541cabaef6f7fe23d6611) <sub><sup>__macOS__<sup></sub><p>Toggle the “Notification Center” Trackpad swipe gesture<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Notification Center”</sub>
+
+<br>
+
+[Trackpad Mission Control Gesture](https://www.icloud.com/shortcuts/42dcb8713fde485486d2de0a44719758) <sub><sup>__macOS__<sup></sub><p>Select Gesture for the “Mission Control” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Up with Three Fingers • Swipe Up with Four Fingers</sup><br><sub>__Output__<br>The generic string “Mission Control”</sub>
+
+<br>
+
+[Trackpad App Exposé Gesture](https://www.icloud.com/shortcuts/65a7d64f87f44c69b2ec85d61f1527f1) <sub><sup>__macOS__<sup></sub><p>Select Gesture for the “App Exposé” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Down with Three Fingers • Swipe Down with Four Fingers</sup><br><sub>__Output__<br>The generic string “App Exposé”</sub>
+
+<br>
+
+[Trackpad Show Desktop Gesture](https://www.icloud.com/shortcuts/bd818fb595e9468ab3655bb3bfdeb6c9) <sub><sup>__macOS__<sup></sub><br><sub>_Because of a bug, the toggle won’t reflect the changed state until System Settings is restarted_</sub><p>Toggle the “Show Desktop” Trackpad swipe gesture<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Show Desktop”</sub>
 
 <br>
 
@@ -228,7 +244,7 @@ __Usage__
 
 > __Shortcuts__
 ###
-[Set Shortcut Attributes](https://www.icloud.com/shortcuts/391372497e7c425a90b92bb6bafbacf7)<p>Change an attribute for an individual shortcut<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle • Reiceive Input From Spotlight • Show in Share Sheet • Show on Apple Watch • Pin in Menu Bar • Receive What”s On Screen • Use as Quick Action • Allow Running When Locked</sup><br><sub>__Options__<br>Open When Run</sub><p><sup>__Output__<br>none</sup>
+[Set Shortcut Attributes](https://www.icloud.com/shortcuts/391372497e7c425a90b92bb6bafbacf7)<p>Change an attribute for an individual shortcut<p><sup>__Parameters__<br>Receive Input From Spotlight • Show in Share Sheet • Show on Apple Watch • Pin in Menu Bar • Receive What’s On Screen • Use as Quick Action • Allow Running When Locked</sup><br><sub>__Options__<br>Open When Run</sub><p><sup>__Output__<br>none</sup>
 
 <br>
 
