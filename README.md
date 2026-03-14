@@ -185,7 +185,7 @@ __Usage__
 
 <br>
 
-[Trackpad Look Up & Data Detectors](https://www.icloud.com/shortcuts/15b9a8257719410f96aa247ac4af666c) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly referred to as “Force Click and haptic feedback” in the action_</sub><p>Change the “Look up & data detectors” Trackpad setting<p><sup>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sup><br><sub>__Output__<br>The generic string “Force Click and haptic feedback” [wrong term used]</sub>
+[Trackpad Look Up & Data Detectors](https://www.icloud.com/shortcuts/15b9a8257719410f96aa247ac4af666c) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly called “Force Click and haptic feedback” in the action_</sub><p>Change the “Look up & data detectors” Trackpad setting<p><sup>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sup><br><sub>__Output__<br>The generic string “Force Click and haptic feedback” [wrong name used]</sub>
 
 <br>
 
@@ -217,7 +217,7 @@ __Usage__
 
 <br>
 
-[Trackpad Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/b384ab2f3bcf479a84ac31f19be634df) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly referred to as “Swipe between pages” in the action_</sub><p>Select gesture for the “Swipe between full-screen applications” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sup><br><sub>__Output__<br>The generic string “Swipe between pages” [wrong term used]</sub>
+[Trackpad Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/b384ab2f3bcf479a84ac31f19be634df) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly called “Swipe between pages” in the action_</sub><p>Select gesture for the “Swipe between full-screen applications” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sup><br><sub>__Output__<br>The generic string “Swipe between pages” [wrong name used]</sub>
 
 <br>
 
